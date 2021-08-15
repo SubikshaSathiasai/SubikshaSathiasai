@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SubikshaSathiasai,
 - 👀 I’m interested in full stack development,
-- 🌱 I’m currently pursuing computer science and engineering,
+- 🌱 I’m currently pursuing Bachelor's degree in Computer Science and Engineering,
 - 📫 How to reach me subikshasathiasai@gmail.com ...
 
 <!---
