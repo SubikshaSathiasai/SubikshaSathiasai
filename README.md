@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SubikshaSathiasai
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Full Stack Development
+- 👋 Hi, I’m Subiksha S
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science
 - 🌱 I am recently graduated with a Bachelor's degree in Computer Science and Engineering
 - 📫 How to reach me subikshasathiasai@gmail.com ...
 
